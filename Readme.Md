@@ -2,7 +2,7 @@
 
 ---
 
-# 🚨 **Women Safety Analytics** 🚨  
+# 🚨 **SafeAura** 🚨  
 _A Real-Time AI-Powered Solution for Safer Public Spaces_
 
 ---
