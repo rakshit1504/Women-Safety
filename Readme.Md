@@ -104,7 +104,7 @@ Want to try out **Women Safety Analytics**? Follow these simple steps to get sta
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-repo/women-safety-analytics.git
+   https://github.com/arunimasharma33/Women-Safety.git
    ```
 2. **Install dependencies**:
    ```bash
