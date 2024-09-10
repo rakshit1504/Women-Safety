@@ -115,26 +115,4 @@ Want to try out **Women Safety Analytics**? Follow these simple steps to get sta
    python app.py
    ```
 
----
 
-## 📞 **Contact Us**
-
-We'd love to hear from you! Whether you have questions, feedback, or want to partner with us, feel free to reach out:
-
-- Email: support@safetech.com
-- LinkedIn: [Women Safety Analytics Team](https://linkedin.com/company/womensafetyanalytics)
-
-Together, we can build a world where women feel safe, always.
-
----
-
-**Women Safety Analytics** – *Making Public Spaces Safer, One Camera at a Time*
-
----
-
-### **License**  
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as long as proper credit is given. 
-
----
-
-This README is designed to be **engaging**, **informative**, and **motivating** for anyone looking at your project. It covers technical details, features, and vision while maintaining a professional tone. You can customize the URLs, contact details, and screenshots as needed.
