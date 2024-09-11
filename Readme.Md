@@ -9,7 +9,7 @@ _A Real-Time AI-Powered Solution for Safer Public Spaces_
 
 ## 🌟 **Overview**
 
-Women Safety Analytics is a cutting-edge solution designed to protect women from potential threats in public spaces using **AI-driven real-time monitoring**. By integrating seamlessly with **existing CCTV infrastructure**, our system proactively detects unsafe situations and alerts authorities, creating a **safer world** for women. 
+SafeAura is a cutting-edge solution designed to protect women from potential threats in public spaces using **AI-driven real-time monitoring**. By integrating seamlessly with **existing CCTV infrastructure**, our system proactively detects unsafe situations and alerts authorities, creating a **safer world** for women. 
 
 Built on powerful AI models, our solution analyzes live video feeds to detect threats, classify gender, and identify high-risk areas, giving law enforcement and security teams the tools they need to act **before incidents escalate**. 
 
@@ -64,7 +64,7 @@ We prioritize **data privacy and security**. Our system is compliant with regula
 
 ---
 
-## 🏆 **Why Choose Women Safety Analytics?**
+## 🏆 **Why Choose SafeAura?**
 
 - **Proactive Prevention**: Unlike manual monitoring or apps that depend on user input, our system works in the background, 24/7, to detect and alert potential threats before they escalate.
 - **Cost-Effective**: Integrates with existing infrastructure, minimizing the need for additional hardware or costly upgrades.
@@ -75,7 +75,7 @@ We prioritize **data privacy and security**. Our system is compliant with regula
 
 ## 👥 **Contributing**
 
-We welcome contributions to make **Women Safety Analytics** even better! Whether you're a developer, researcher, or just passionate about women’s safety, there’s a role for you. 
+We welcome contributions to make **SafeAura** even better! Whether you're a developer, researcher, or just passionate about women’s safety, there’s a role for you. 
 
 1. Fork the repository
 2. Make your changes
@@ -87,7 +87,7 @@ Let’s work together to make public spaces safer for everyone!
 
 ## 🎯 **Our Vision**
 
-In the next 5 years, we envision **Women Safety Analytics** as a key player in public safety solutions worldwide. Our goal is to expand this technology to other areas of safety and security, from detecting suspicious activity in public transport to ensuring the safety of children in schools. 
+In the next 5 years, we envision **SafeAura** as a key player in public safety solutions worldwide. Our goal is to expand this technology to other areas of safety and security, from detecting suspicious activity in public transport to ensuring the safety of children in schools. 
 
 ---
 
@@ -100,7 +100,7 @@ In the next 5 years, we envision **Women Safety Analytics** as a key player in p
 
 ## 🌍 **Get Started**
 
-Want to try out **Women Safety Analytics**? Follow these simple steps to get started:
+Want to try out **SafeAura**? Follow these simple steps to get started:
 
 1. **Clone this repository**:
    ```bash
