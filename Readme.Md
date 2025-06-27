@@ -93,7 +93,7 @@ In the next 5 years, we envision **SafeAura** as a key player in public safety s
 
 ## 📸 **Screenshots**
 
-![Real-time Alerts Dashboard](https://link-to-screenshot.com/dashboard.png)
+![Real-time Alerts Dashboard](screenshots/ss1.jpg)
 *Example of the alert interface with a live feed and notifications*
 
 ---
